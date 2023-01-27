@@ -1,7 +1,7 @@
 // 소스 코드 수정 중
 
 package game;
-
+// 수정중
 import java.util.Scanner;
 
 public class upDown {
